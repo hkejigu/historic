@@ -4,9 +4,9 @@ Historic Data
 Data themes with a strong historic bearing i.e. is likely to be temporally obsolete.
 
 
-###tribal_groupings_historic
+###1. tribal_groupings_historic
 ----
-** This data was extracted from an undated source found off the internet. It references Rhodesia
+** This data was extracted from an undated source found off the internet. It references Rhodesia (former name of Zimbabwe).**
 
 * The orientation are based on historical fact. They do not necessarily mean that a modern African from KALANGA group, for example, automatically considers himself to be NDEBELE oriented in matters of politics, sport or any other aspect of organized life.
 
